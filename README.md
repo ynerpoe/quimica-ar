@@ -80,5 +80,5 @@ quimica-ar/
 | **UMCE** | Universidad Metropolitana de Ciencias de la Educación · [www.umce.cl](https://www.umce.cl/) |
 
 ---
-
 © 2025 Laboratorio MACEDONIA · LabTec UMCE · Todos los derechos reservados
+![](https://goatcounter.com)
